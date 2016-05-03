@@ -1,9 +1,9 @@
-# **My First Webpage
+# My First Webpage
 #### HTML Exercise for Epicodus April 27th
 
 ### By Alex Migdol and Kelsey Kinney
 
-## Description**
+## Description
 This webpage describes Alex's hobbies and favorite things.  These cover a wide variety of foods and animals.
 
 ## **Setup**
