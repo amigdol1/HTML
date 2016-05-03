@@ -1,0 +1,21 @@
+h1 {
+  color: navy;
+  text-align: center;
+  font-size: 40px;
+  font-family: fantasy;
+  font-weight: bolder;
+}
+
+h2 {
+  color: maroon;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ol {
+  font-size: 20px;
+  line-height: 50px;
+}
